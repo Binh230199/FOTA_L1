@@ -1,0 +1,4 @@
+l152re_systick.c:13:6:SysTick_Init	4	static
+l152re_systick.c:21:6:SysTick_DelayMillis	24	static
+l152re_systick.c:31:10:SysTick_GetTick	4	static
+l152re_systick.c:36:6:SysTick_Handler	4	static

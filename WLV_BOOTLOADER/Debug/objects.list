@@ -1,0 +1,7 @@
+"./Inc/l152re_eeprom.o"
+"./Inc/l152re_rcc.o"
+"./Inc/l152re_systick.o"
+"./Src/main.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32l152retx.o"

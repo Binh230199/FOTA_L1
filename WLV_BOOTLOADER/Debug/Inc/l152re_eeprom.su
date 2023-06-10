@@ -1,0 +1,7 @@
+l152re_eeprom.c:10:13:EEPROM_WaitFlagBSYIsReset	16	static
+l152re_eeprom.c:25:6:EEPROM_Unlock	4	static
+l152re_eeprom.c:36:6:EEPROM_Lock	4	static
+l152re_eeprom.c:42:6:EEPROM_EraseWord	16	static
+l152re_eeprom.c:50:6:EEPROM_EraseByte	16	static
+l152re_eeprom.c:58:6:EEPROM_ProgramWord	16	static
+l152re_eeprom.c:75:6:EEPROM_ProgramByte	16	static

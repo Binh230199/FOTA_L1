@@ -1,0 +1,16 @@
+core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+main.c:139:16:_send_AT_cmd	32	static
+main.c:178:6:HAL_UARTEx_RxEventCallback	16	static
+main.c:185:6:ota_enable_send_AT	8	static
+main.c:190:6:ota_disable_send_AT	8	static
+main.c:198:6:ota_write_firmware	232	static
+main.c:261:6:ota_check_CRC	24	static
+main.c:285:5:main	8	static
+main.c:455:6:SystemClock_Config	80	static
+main.c:497:13:MX_CRC_Init	8	static
+main.c:523:13:MX_USART2_UART_Init	8	static
+main.c:554:13:MX_DMA_Init	16	static
+main.c:572:13:MX_GPIO_Init	40	static
+main.c:593:6:sim7x00_rx_comming	8	static
+main.c:600:7:sim7x00_get_rx_buffer_data	4	static
+main.c:652:6:Error_Handler	8	static,ignoring_inline_asm

@@ -1,0 +1,4 @@
+main.c:24:5:main	16	static
+main.c:55:6:System_ClockConfig	4	static
+main.c:71:6:DeInit	4	static
+main.c:83:6:gotoFirmware	32	static,ignoring_inline_asm
